@@ -5,10 +5,10 @@
    ========================================== */
 :root {
   /* Color Palette */
-  --primary-navy: #0f172a;       /* Slate 900 (Deep Navy) */
-  --primary-light: #1e293b;      /* Slate 800 */
-  --accent-gold: #f59e0b;       /* Amber 500 (Golden Gold) */
-  --accent-gold-hover: #d97706; /* Amber 600 */
+  --primary-navy: #002D62;       /* Exact Royal Navy Blue from Truck */
+  --primary-light: #0d1e3d;      /* Dark Accent Blue */
+  --accent-gold: #E5A93B;       /* Exact Gold from Truck Logo */
+  --accent-gold-hover: #c88f28; /* Darker Gold for hover states */
   --accent-blue: #3b82f6;       /* Blue 500 */
   
   --text-dark: #0f172a;         /* Body Text Dark */
@@ -17,8 +17,8 @@
   
   --bg-white: #ffffff;
   --bg-light: #f8fafc;          /* Light Gray-Blue background */
-  --bg-navy-gradient: linear-gradient(135deg, #0b1d3a 0%, #1e3a8a 100%);
-  --bg-gold-gradient: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  --bg-navy-gradient: linear-gradient(135deg, #002D62 0%, #0d1e3d 100%);
+  --bg-gold-gradient: linear-gradient(135deg, #E5A93B 0%, #c88f28 100%);
   
   /* Status Colors */
   --color-green: #25d366;       /* WhatsApp Green */
