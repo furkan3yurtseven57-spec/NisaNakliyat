@@ -1259,23 +1259,9 @@ button, input, select, textarea {
 
 .footer-bottom-content {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  gap: 10px;
   text-align: center;
-}
-
-@media (min-width: 576px) {
-  .footer-bottom-content {
-    flex-direction: row;
-    gap: 0;
-    text-align: left;
-  }
-}
-
-.developer {
-  color: rgba(248, 250, 252, 0.4);
 }
 
 /* ==========================================
